@@ -130,6 +130,7 @@ export function initRules_bc_settings() {
 					["everyoneBlacklist", "Everyone, except blacklist"],
 					["dominants", "Owner, Lovers, whitelist & Dominants"],
 					["whitelist", "Owner, Lovers and whitelist only"],
+					["owner", "Owner only"],
 				],
 				default: "everyone",
 				description: "Item permission",
